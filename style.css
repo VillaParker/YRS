@@ -38,7 +38,7 @@ html{
     font-weight: 800;
 }
 .container-content {
-    background-color: whitesmoke;
+    background-color: aqua;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -68,7 +68,7 @@ box-shadow: 15px 15px 5px 0px rgba(188,187,187,0.75);
 }
 
 .container-footer {
-height: 10vh ;
+height: 10vh;
 background-color: #27D3FE;
 display: flex;
 justify-content: center;
@@ -79,3 +79,10 @@ align-items: center;
 font-size: 40px;
 color: black;
 }
+
+/* tes1 */
+.tes-bar{
+color: rgb(2, 51, 114);
+font-size: 25px;
+width: 1300px;
+margin: 50px auto;
