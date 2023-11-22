@@ -15,7 +15,7 @@ body{
 /* NAVBAR MULAI */
 .navbar-blok{
     background-color:#27D3FE ;
-    height: 10vh auto;
+    height: 10vh;
 }
 
 .navbar-ul{
@@ -54,7 +54,7 @@ body{
     margin-left: 10%;
     margin-right: 10%;
     padding: 3%;
-    height: 100% auto; 
+    height: 80vh; 
     text-align: center  
 }
 
@@ -68,6 +68,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.konten-a{
+    text-decoration: none;
     color: blue;
 }
 /* ABOUT SELES */
