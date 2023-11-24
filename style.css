@@ -27,6 +27,7 @@ body{
 .navbar-li{
     padding: 20px;
      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-size: 30px;
 }
 
 .navbar-li:hover{
@@ -39,7 +40,9 @@ body{
 .navbar-a{
     text-decoration: none;
     color: whitesmoke;
-    font-weight: 100;
+    font-weight: 800;
+    ustify-content: center;
+    list-style-type: none;
 }
 /* NAVBAR SELESAI */
 
