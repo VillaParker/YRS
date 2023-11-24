@@ -16,6 +16,9 @@ body{
 .navbar-blok{
     background-color:#27D3FE ;
     height: 10vh;
+	display: flex; 
+    justify-content: center;
+    list-style-type: none;
 }
 
 .navbar-ul{
