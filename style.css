@@ -15,7 +15,7 @@ body{
 /* NAVBAR MULAI */
 .navbar-blok{
     background-color:#27D3FE ;
-    height: 10vh;
+    height: 10vh auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -40,7 +40,7 @@ body{
     background-color: paleturquoise;
     transition: .5s ease-in-out;
     transition-delay: .3s;
-    border-radius: 100px;   
+    border-radius: 30px;   
 }
 
 .navbar-a{
@@ -56,12 +56,16 @@ body{
 
 /* KONTEN MULAI */
 .konten-blok{
-    background-color:whitesmoke ;
+    background-color:whitesmoke;
     margin-left: 10%;
     margin-right: 10%;
     padding: 3%;
-    height: 80vh; 
+    height: 80vh auto; 
     text-align: center  
+}
+
+.konten-border{
+    border: 20px solid whitesmoke;
 }
 
 /* ABOUT */
