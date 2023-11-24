@@ -14,11 +14,9 @@ body{
 
 /* NAVBAR MULAI */
 .navbar-blok{
+    padding: 10;
     background-color:#27D3FE ;
-    height: 10vh;
-	display: flex; 
-    justify-content: center;
-    list-style-type: none;
+    
 }
 
 .navbar-ul{
