@@ -15,7 +15,7 @@ body{
 /* NAVBAR MULAI */
 .navbar-blok{
     background-color:#27D3FE ;
-    height: 10vh;
+    height: 12vh;
     display: flex;
     justify-content: center;
     align-items: center;
