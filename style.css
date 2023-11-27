@@ -60,7 +60,7 @@ body{
     margin-left: 10%;
     margin-right: 10%;
     padding: 3%;
-    height: 80vh; 
+    height: 80vh auto; 
     text-align: center  
 }
 
